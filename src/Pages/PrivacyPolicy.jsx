@@ -1,14 +1,15 @@
+import { Link } from 'react-router-dom'
 import logo from '../Assets/firstlookLogo.png'
 
 const PrivacyPolicy = () => {
     return (
         <div className='w-11/12 mx-auto h-fit'>
-            <div className='flex'>
+            <Link to='/' className='flex'>
                 <img src={logo} alt="" className='mt-12 h-16 w-16' />
                 <p className='mt-[3.7rem] font-semibold text-3xl ml-3'>
                     FIRSTLOOK
                 </p>
-            </div>
+            </Link>
 
             <p className="text-[24px] flex justify-center font-oxygen font-bold mt-16">
                 PRIVACY POLICY
