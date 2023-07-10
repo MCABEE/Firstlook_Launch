@@ -1,9 +1,16 @@
 import Index from "./Pages/Index"
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import PrivacyPolicy from "./Pages/PrivacyPolicy";
 
 function App() {
   return (
     <>
-      <Index/>
+      <BrowserRouter>
+        <Routes>
+          <Route path='/' element={<Index />} />
+          <Route path='/privacy/policy' element={<PrivacyPolicy />} />
+        </Routes>
+      </BrowserRouter>
     </>
   )
 }

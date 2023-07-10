@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import logo from '../Assets/firstlookLogo.png'
 
 const Index = () => {
@@ -37,6 +38,10 @@ const Index = () => {
                 <p className='mt-7 text-[32px] ml-36 text-white font-light'>
                     JULY 2023
                 </p>
+
+                <Link to='/privacy/policy' className='text-white bottom-4 right-4 absolute ml-36 text-sm font-light'>
+                    Privacy Policy
+                </Link>
 
             </div>
         </>
