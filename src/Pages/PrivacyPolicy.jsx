@@ -55,7 +55,7 @@ const PrivacyPolicy = () => {
                     logged in, features you’ve been using, searches, clicks and pages visited by you,
                     your interaction with other users including messages exchanged.
                 </p>
-                <p className="text-[16px] mt-4 text-justify ml-8">
+                <p className="text-[16px] mt-4 text-justify">
                     We use a secure server for credit card transactions to protect the credit card
                     information of our users and Cookies are used to store the login information. Cookies
                     are small files placed on your hard drive that will assist us in providing our services.
@@ -63,12 +63,12 @@ const PrivacyPolicy = () => {
                     Website/Apps that are placed by third parties. We do not control the use of cookies
                     by third parties.
                 </p>
-                <p className="text-[16px] mt-4 text-justify ml-8">
+                <p className="text-[16px] mt-4 text-justify">
                     If you establish a credit account with us to pay the fees we charge, some additional
                     information, including a billing address, a credit/debit card number and a credit/debit
                     card expiration date is collected.
                 </p>
-                <p className="text-[16px] mt-4 text-justify ml-8">
+                <p className="text-[16px] mt-4 text-justify">
                     The user information we collect depends on the context of your interactions with us
                     and the Website or Apps, the choices you make and the products and features you
                     use. The User Information is used for authentication and account access. If a user register’s using social networking platforms such as Facebook, Google, LinkedIn and
@@ -77,7 +77,7 @@ const PrivacyPolicy = () => {
                     user accesses our Websites or Apps, data relating to device ID, log files, Geographic
                     Location, device Information/specification are also collected automatically.
                 </p>
-                <p className="text-[16px] mt-6 text-justify ml-8">
+                <p className="text-[16px] mt-6 text-justify">
                     We may use also your personal information for analysis of data, usage trends and to
                     evaluate and improve our Website/App, marketing research, preventing of frauds. In
                     our efforts to continually improve our product and service offerings, we collect and
@@ -89,7 +89,7 @@ const PrivacyPolicy = () => {
                 <p className="text-[24px] font-oxygen font-bold mt-8">
                     How the Website/Apps uses the information it collects/tracks?
                 </p>
-                <p className="text-[16px] mt-6 text-justify ml-8">
+                <p className="text-[16px] mt-6 text-justify">
                     www.firstlook.pro collects information for data analysis, identifying usage trends,
                     determining the effectiveness of our promotional campaigns and to evaluate and
                     improve our Websites or Apps, products, and services, marketing research from our
@@ -99,7 +99,7 @@ const PrivacyPolicy = () => {
                 <p className="text-[24px] font-oxygen font-bold mt-8">
                     For European Union Members (EU)
                 </p>
-                <p className="text-[16px] mt-4 text-justify ml-8">
+                <p className="text-[16px] mt-4 text-justify">
                     If you are located in the EU, you will be asked to provide consent to the collection,
                     processing, and sharing of your personal information. Personal information means
                     any information related to an identified or identifiable natural person. You have the
