@@ -39,7 +39,7 @@ const Index = () => {
                     JULY 2023
                 </p>
 
-                <Link to='/privacy/policy' className='text-white bottom-4 right-4 absolute ml-36 text-sm font-light'>
+                <Link to='/privacyPolicy' className='text-white bottom-4 right-4 absolute ml-36 text-sm font-light'>
                     Privacy Policy
                 </Link>
 
